@@ -1,0 +1,67 @@
+lsb_release -a
+	查询版本号
+	
+rpm -ql rname
+	查询安装应用
+	
+find / -name "*nginx*"
+	从根目录查找*nginx*
+	
+systemctl restart httpd
+	启动apache
+netstat -nlpt|grep php-fpm
+	tcp        0      0 127.0.0.1:9000              0.0.0.0:*                   LISTEN      1057/php-fpm
+	
+nginx php-fpm配置
+	#此配置使nginx支持php
+    location ~ \.php$ {
+        root /var/www/html; #指定php的根目录
+        fastcgi_pass 127.0.0.1:9000;#php-fpm的默认端口是9000
+        fastcgi_index index.php;
+        fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+        include fastcgi_params;
+    }
+	
+yum list installed|grep httpd
+yum -y remove java-1.7.0-openjdk*
+
+tar -zxvf **.tar.gz
+
+make distclean //消除make
+chkconfig mysql on //设置开机自启动MySQL
+chkconfig --list|grep mysql //查询
+ntsysv //开机自启设置
+
+top//服务器性能
+：：：：：：：：：：：：：：：：：：；：：：
+useradd sch
+passwd
+
+chmod 744 test.txt //修改权限 rwxr--r--
+
+more test.txt |cut -d'1' -f1-5|sed 's/1//g'|awk -F: '{print $1"--"$2}'
+-----------------------------------------------------------------------
+rpm -ivh soft.rpm//安装rpm安装包
+rpm -ql jdk//查寻jdk安装
+
+yum search jdk
+
+收藏rpm和yum的区别和联系
+make安装
+---------------------------
+shell
+echo "$?"
+ll /usr/err > tmp.txt
+set//本地变量-环境变量
+printenv //环境变量
+echo "this dir is "`pwd`
+
+
+
+------------------------
+lsof -i :80 //查看端口占用
+kill 信号量控制
+
+
+---------------------
+bg、 fg 、 jobs 前后台切换命令

@@ -1,0 +1,25 @@
+宅客学院	http://www.zhaikexueyuan.com/
+黑马程序员	http://www.itheima.com/
+慕课网		https://www.imooc.com/
+网易公开课	https://open.163.com/
+极客学院	http://www.jikexueyuan.com/
+思否讲堂	https://segmentfault.com/lives
+
+
+Java语言高级编程
+http://www.zhaikexueyuan.com/course/82
+轻松学会Laravel-基础篇
+https://www.imooc.com/search/?words=laravel
+Java concurrent架包详解
+https://search.jikexueyuan.com/course/?q=java%20concurrent
+
+
+
+
+
+
+other
+菜鸟教程	http://www.runoob.com/
+
+凌云社区（专注IT资源分享）
+http://www.linyunbbs.com/

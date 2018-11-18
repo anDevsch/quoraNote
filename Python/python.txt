@@ -1,0 +1,38 @@
+标识	_/字母+_/字母/数字
+常见数据类型	数、字符串、列表（list）、元组（tuple）、集合（set）、字典（dictionary）
+							["my","you"] ("My","You")    sa=set(a)		{"name":"sch","sex":"man"}
+										 (不支持修改)
+
+基本运算	4/3 4//3 4%3
+
+三种程序执行流	顺序、条件、循环
+python函数
+python模块
+
+模块学习help()
+
+网络爬虫	通用与聚焦爬虫
+
+urllib.request
+urllib.request.urlopen("http://www.baidu.com")
+
+升级pip
+python -m pip install --upgrade pip
+
+Scrapy命令
+	fetch\runspider\shell\startproject\version\view\
+项目命令
+	check检查爬虫、crawl启动爬虫、genspider创建爬虫模板、list展示可以使用的爬虫文件
+	edit linux下编辑某个爬虫文件、parse直接获取某个网页
+	
+Xpath表达式、正则表达式
+
+pip install pymysql
+import json
+
+import numpy as nn
+
+前程无忧python爬虫
+
+
+

@@ -1,0 +1,3 @@
+Laravel 5.5 一键安装包
+
+http://laravelacademy.org/resources-download
