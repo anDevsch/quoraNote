@@ -1,3 +1,25 @@
+YNdKnow
+	熟练的计算机语言Java，C#，python,javascript等
+	Java的各种框架Spring、Spring MVC、Spring boot、mybits等等
+	各种工具Git、maven、eclipse、docker、hadoop、nginx
+	操作系统、linux、shell命令
+	数据结构与算法，排序算法等等
+	数据库常用sql、nosql数据库
+	服务端、前端知识了解、MVC、ajax等，以及相关前后端框架spring、jq、vue等
+	计算机网络相关知识（七层架构、IP/TCP、HTTP等）
+	设计模式（创建型模式、结构型模式、行为型模式、J2EE模式）
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 你知道什么
 	Java基础：JVM虚拟机（内存模型，GC算法，垃圾收集策略），线程
 	linux命令：（基本命令，文件命令，文本处理命令）
